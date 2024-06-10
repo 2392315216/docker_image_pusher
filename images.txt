@@ -10,3 +10,4 @@ mysql:5.7
 redis
 nginx
 hello-world
+mysql
