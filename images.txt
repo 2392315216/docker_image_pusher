@@ -6,3 +6,6 @@ kasmweb/nginx:1.25.3
 nyanmisaka/jellyfin
 linuxserver/jackett
 linuxserver/jackett
+mysql:5.7
+redis
+nginx
